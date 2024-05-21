@@ -1,0 +1,2 @@
+# cdn
+photos storage
